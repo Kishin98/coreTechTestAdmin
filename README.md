@@ -18,3 +18,4 @@ npm run web
 ### Problemi
 - Lo stile non è molto curato.
 - Il download dei cv non funziona correttamente, ho bisogno di comprendere più a fondo il file system dei dispositivi mobile.
+- Il codice è stato scritto in un unico componente per questioni di tempo, ma con un po' di pazienzadi puà snellire e riordinare
