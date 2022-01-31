@@ -1,5 +1,5 @@
 ### Come eseguire in locale
-Entrando nella cartella, scaricare tutti i moduli npm usati con
+Entrando nella cartella, scaricare tutti i moduli npm usati con (avendo node js installato sula macchina)
 ```
 npm i
 ```
